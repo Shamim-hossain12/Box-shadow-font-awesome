@@ -1,0 +1,195 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    background-color: rgb(14, 182, 182);
+    height: 1500px;
+}
+
+.div {
+    background-color: chocolate;
+    height: 300PX;
+    width: 90%;
+    margin-bottom: 50px;
+    margin: auto;
+}
+
+.head {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0px 2px rgb(241, 89, 18);
+    color: rgb(226, 215, 211);
+}
+
+.head2 {
+    color: darkturquoise;
+    text-decoration: underline;
+}
+
+.box-h {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.h1 {
+    /* background-color: red; */
+    margin-bottom: 120px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: none;
+    color: tomato;
+}
+
+.box1 {
+    background-color: rgb(13, 160, 160);
+    padding: 80px;
+    margin: 50px;
+    margin-bottom: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px -10px 8px -2px black;
+    border-radius: 10px;
+}
+
+.box2 {
+    background-color: rgb(13, 160, 160);
+    padding: 80px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 10px 8px -2px black;
+    border-radius: 10px;
+}
+
+.box3 {
+    background-color: rgb(13, 160, 160);
+    padding: 80px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: -10px 0px 8px -2px black;
+    border-radius: 10px;
+}
+
+.box4 {
+    background-color: rgb(13, 160, 160);
+    padding: 80px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 10px 0px 8px -2px black;
+    border-radius: 10px;
+}
+
+hr {
+    margin-top: 100px;
+    margin-bottom: 120px;
+    border: none;
+}
+
+.box5 {
+    background-color: rgb(13, 160, 160);
+    padding: 60px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 10px 8px -3px black inset;
+    border-radius: 10px;
+}
+
+.box6 {
+    background-color: rgb(13, 160, 160);
+    padding: 60px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px -10px 8px -2px black inset;
+    border-radius: 10px;
+}
+
+.box7 {
+    background-color: rgb(13, 160, 160);
+    padding: 60px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 10px 0px 8px -2px black inset;
+    border-radius: 10px;
+}
+
+.box8 {
+    background-color: rgb(13, 160, 160);
+    padding: 60px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: -10px 0px 8px -2px black inset;
+    border-radius: 10px;
+}
+
+.box9 {
+    background-color: rgb(13, 160, 160);
+    padding: 60px;
+    margin: 50px;
+    border: 0px solid black;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 10px 8px -4px black, 0px -10px 8px -4px black;
+    border-radius: 10px;
+}
+
+.box10 {
+    background-color: rgb(13, 160, 160);
+    border: 0px solid black;
+    padding: 60px;
+    margin: 50px;
+    color: rgb(10, 13, 236);
+    box-shadow: 10px 0px 6px -4px black, -10px 0px 6px -4px black;
+    border-radius: 10px;
+}
+
+.box11 {
+    background-color: rgb(13, 160, 160);
+    border: 0px solid black;
+    padding: 40px;
+    margin: 50px;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 10px 6px -4px black inset, 0px -10px 6px -4px black inset;
+    border-radius: 10px;
+}
+
+.box12 {
+    background-color: rgb(13, 160, 160);
+    border: 0px solid black;
+    padding: 60px;
+    margin: 50px;
+    color: rgb(10, 13, 236);
+    box-shadow: 10px 0px 6px -4px black inset, -10px 0px 6px -4px black inset;
+    border-radius: 10px;
+}
+
+.box13 {
+    background-color: rgb(13, 160, 160);
+    border: 0px solid black;
+    padding: 80px;
+    margin: 50px;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 0px 8px 6px black;
+    border-radius: 10px;
+}
+
+.box14 {
+    background-color: rgb(13, 160, 160);
+    border: 0px solid black;
+    padding: 80px;
+    margin: 50px;
+    color: rgb(10, 13, 236);
+    box-shadow: 0px 0px 8px 6px black inset;
+    border-radius: 10px;
+}
+
+.end-box {
+    text-align: center;
+}
